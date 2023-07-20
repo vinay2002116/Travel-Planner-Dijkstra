@@ -1,1 +1,2 @@
-# Travel-Planner-Dijkstra
+# CBFriendsCost
+CB Project
